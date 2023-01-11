@@ -32,11 +32,8 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
+# 📖 [My_HelloMicroverse] <a name="about-project"></a>
 
 **[My_HelloMicroverse]** The goal of this project is to master all the tools and best practices that I will use in all of my projects in Microverse and in the work place as well
 
@@ -44,7 +41,6 @@
 -HTML
 -CSS
 
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -52,11 +48,8 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 ### Prerequisites
@@ -93,25 +86,17 @@ git checkout branch_Hello
 To run tests, run the following command:
 npx stylelint "**/*.{css,scss}" in the terminal to check for linters errsor
 
-<!-- AUTHORS -->
+## 👥 Author <a name="authors"></a>
 
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
-
-👤 **Author1**
+👤 **Queenter Juma**
 
 - GitHub:(https://github.com/QueenterJuma)
 - Twitter: (https://twitter.com/QueenJumah)
 - LinkedIn:(https://www.linkedin.com/in/queenter-juma-54a0b1222/)
 
-<!-- CONTRIBUTING -->
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!  
-
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -119,7 +104,6 @@ If you like this project Give a ⭐️
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -127,8 +111,6 @@ I would like to thank -Microverseinc for allowing me to use this tamplate
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
